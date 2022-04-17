@@ -74,7 +74,7 @@ If you're already familiar with using the function API, you should feel right
 at home using the abstract API. Every function takes the same input, passed
 as a dictionary of Numpy arrays:   
 如果您已经熟悉使用函数API，那么您就应该精通使用抽象API。
-每个函数有相同的输入，作为一个字典通过NumPy数组：
+每个函数有相同的输入，通过NumPy数组字典传递：
 
 ```python
 import numpy as np
